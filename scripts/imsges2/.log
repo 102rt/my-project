@@ -1,0 +1,35 @@
+[04/02/2024 16:12:11]: setting up analysis for night F:/github/scripts/imsges2/
+[04/02/2024 16:12:11]: reading data from directory "F:/github/scripts/imsges2/"
+[04/02/2024 16:12:11]: No time information for image file F:/github/scripts/imsges2/XJCAM_20180120230100_1.cr2img.fits.
+[04/02/2024 16:12:11]:   cropping XJCAM_20180120230100_1.cr2img.fits
+[04/02/2024 16:12:11]: 1 images read for processing
+[04/02/2024 16:12:11]: generating image mask from 1 images.
+[04/02/2024 16:12:12]:   mask file written to F:/github/scripts/imsges2/median.fits.
+[04/02/2024 16:12:12]: generating image mask from 1 images.
+[04/02/2024 16:12:12]:   apply gaussian blur with kernel size 10.
+[04/02/2024 16:12:12]:   mask pixels with values less than 3400.
+[04/02/2024 16:12:12]:   convolve mask with kernel size 20.
+[04/02/2024 16:12:14]:   mask file written to F:/github/scripts/imsges2/mask.fits.
+[04/02/2024 16:12:19]: read mask image file "./workbench/images/mask.fits"
+[04/02/2024 16:12:19]: No time information for image file ./workbench/images/mask.fits.
+[04/02/2024 16:12:27]: processing image files
+[04/02/2024 16:12:27]: extract features from file "F:/github/scripts/imsges2/XJCAM_20180120230100_1.cr2img.fits"
+[04/02/2024 16:12:29]: writing thumbnail "F:/github/scripts/imsges2/XJCAM_20180120230100_1.png"
+[04/02/2024 16:15:02]: setting up analysis for night F:/github/scripts/imsges2/
+[04/02/2024 16:15:02]: reading data from directory "F:/github/scripts/imsges2/"
+[04/02/2024 16:15:02]: No time information for image file F:/github/scripts/imsges2/XJCAM_20180120230100_1.cr2img.fits.
+[04/02/2024 16:15:02]:   cropping XJCAM_20180120230100_1.cr2img.fits
+[04/02/2024 16:15:02]: 1 images read for processing
+[04/02/2024 16:15:02]: generating image mask from 1 images.
+[04/02/2024 16:15:02]:   mask file written to F:/github/scripts/imsges2/median.fits.
+[04/02/2024 16:15:03]: generating image mask from 1 images.
+[04/02/2024 16:15:03]:   apply gaussian blur with kernel size 10.
+[04/02/2024 16:15:03]:   mask pixels with values less than 3400.
+[04/02/2024 16:15:03]:   convolve mask with kernel size 20.
+[04/02/2024 16:15:05]:   mask file written to F:/github/scripts/imsges2/mask.fits.
+[04/02/2024 16:15:07]: read mask image file "./workbench/images/mask.fits"
+[04/02/2024 16:15:07]: No time information for image file ./workbench/images/mask.fits.
+[04/02/2024 16:15:15]: processing image files
+[04/02/2024 16:15:15]: extract features from file "F:/github/scripts/imsges2/XJCAM_20180120230100_1.cr2img.fits"
+[04/02/2024 16:15:16]: writing thumbnail "F:/github/scripts/imsges2/XJCAM_20180120230100_1.png"
+[04/02/2024 16:15:17]: writing thumbnail "F:/github/scripts/imsges2/XJCAM_20180120230100_1.cr2img_bkgmedian.png"
